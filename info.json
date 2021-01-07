@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "eba3dfd8e8c3495eff140dd9b21a6af8e22a7f88",
+    "author": "erzk <erykjwalczak@gmail.com>",
+    "time": "2021-01-07 21:51:29",
+    "files": 1,
+    "merge": false,
+    "message": "cran submission\n"
+  },
+  "remote": "https://github.com/ropensci/PostcodesioR",
+  "pkg": "PostcodesioR"
+}
