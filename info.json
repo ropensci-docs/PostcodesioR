@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f52a9df76d8d3c64019f53c1bf2b5e5d9965f246",
+    "author": "erzk <erykjwalczak@gmail.com>",
+    "time": "2023-04-14 16:54:48",
+    "files": 5,
+    "merge": false,
+    "message": "JOSS update\n"
+  },
+  "repo": "https://github.com/ropensci/PostcodesioR",
+  "pkg": "PostcodesioR"
+}
